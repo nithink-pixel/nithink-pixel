@@ -8,8 +8,7 @@ I'm a Business Analytics professional with 6+ years of experience across busines
 
 My work connects business strategy with hands-on technical execution, from designing data pipelines and executive dashboards to building forecasting, optimization and machine learning solutions.
 
-🌐 [Portfolio](https://nithink-pixel.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/nithin-krishna145/) · [📧 Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=nkrishnappam%40umass.edu)
-
+🌐 [Portfolio](https://nithink-pixel.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/nithin-krishna145/) · [📧 Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=nithinkrishna.km%40gmail.com)
 ---
 
 ## Business Impact
@@ -91,5 +90,5 @@ I work at the intersection of business intelligence, operations and modern data 
 
 ---
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/nithin-krishna145/) · [Portfolio](https://nithink-pixel.github.io/) · [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=nkrishnappam%40umass.edu)
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/nithin-krishna145/) · [Portfolio](https://nithink-pixel.github.io/) · [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=nithinkrishna.km%40gmail.com)
 
